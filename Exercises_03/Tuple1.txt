@@ -1,0 +1,13 @@
+my_list = ["one","two","three"]
+my_tuple = ("one","two","three")
+print(type(my_list))
+print(type(my_tuple))
+
+
+
+#part two 
+my_tuple = ("one","two","three","three")
+# How many times does three appear in the tuple 
+print(my_tuple.count("three"))
+# At what postion can i find the first one 
+print(my_tuple.index("three"))

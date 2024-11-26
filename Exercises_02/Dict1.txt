@@ -1,0 +1,12 @@
+my_dictonary = {'a':1, 'b': 2, 'c': 3}
+
+keys = my_dictonary.keys()
+print(keys)
+
+my_dictonary = {'a':1, 'b': 2, 'c': 3}
+values = my_dictonary.values()
+print(values)
+
+my_dictonary = {'a':1, 'b': 2, 'c': 3}
+items = my_dictonary.items()
+print(items)
